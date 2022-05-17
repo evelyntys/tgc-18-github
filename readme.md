@@ -1,2 +1,2 @@
-# Hello World
-Lorem Ipsum!
+# Venti the Bald
+Gliding is faster than running
